@@ -5,16 +5,19 @@ using namespace std;
 
 int main()
 {
-	int x = 999;  //integer 
+	int x = 155;  //integer 
 	char y = 'A'; //character
-	string z = "apple orange water and melon";  //word, sentence
+	string z = "apple grape water and melon";  //word, sentence
 	
 	//output
-	cout<<"Welcome to PBCSI"<<endl;
+	while(x>0)
+	
+	{
+	
 	cout<<"Hello world!"<<endl;
+    x--;
 	cout<<x<<endl;
-	cout<<y<<endl;
-	cout<<z<<endl;
+}
 	
 	//console output -> cout
 	
