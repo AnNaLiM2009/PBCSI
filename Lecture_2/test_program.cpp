@@ -5,9 +5,9 @@ using namespace std;
 
 int main()
 {
-	int x = 123;  //integer 
+	int x = 123;  //integer
 	char y = 'z'; //character
-	string z = "apple orange watermelon";  //word, sentence
+	string z = "def";  //word, sentence
 	
 	//output
 	cout<<"Welcome to PBCSI"<<endl;
